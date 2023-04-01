@@ -21,7 +21,6 @@
     let dataProc = filterData(data.data);
     const countries = dataProc.map(d => d[0]).filter(d => d != "Country");
     countries.sort()
-    console.log(countries)
     const genders = ["male", "female"]
 
     $: ageExpectancy = getLifeExpectancy(country, gender);
@@ -253,7 +252,7 @@
     </h1>
 </div>
 
-<svg id="vis" width={WIDTH + 600} height="1000">
+<svg id="vis" width={WIDTH + 600} height={HEIGHT}>
     <path></path>
     <line></line>
     <text id="path-text">You are here</text>
