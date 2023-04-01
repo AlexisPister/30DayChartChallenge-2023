@@ -24,11 +24,8 @@ const config = {
             // strict: false
         }),
         // paths: {
-        //     base: '/30DayChartChallenge-2023',
+        //     base: process.env.NODE_ENV === "production" ? "/30DayChartChallenge-2023" : "",
         // }
-        paths: {
-            base: process.env.NODE_ENV === "production" ? "/30DayChartChallenge-2023" : "",
-        }
     }
 };
 
