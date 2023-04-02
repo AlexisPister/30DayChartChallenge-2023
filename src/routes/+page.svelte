@@ -248,7 +248,7 @@
 
 <div id="main-text">
     <h1>
-        You have {ageExpectancy - age} years left to live in average*, for a {gender} living in {country}.
+        You have {ageExpectancy - age} years left to  live in average*, for a {gender} living in {country}.
     </h1>
 </div>
 
