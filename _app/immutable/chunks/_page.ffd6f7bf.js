@@ -1,1 +1,0 @@
-import{b as r}from"./paths.18b2fcb0.js";import{P as a}from"./papaparse.min.6c13f401.js";const o=({fetch:t})=>t(`${r}/data/02/menu.csv`).then(e=>e.text()).then(e=>a.parse(e,{header:!0})),p=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{p as _,o as l};
