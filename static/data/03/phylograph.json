@@ -1,0 +1,1125 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "name": "Homo sapiens",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16421
+        },
+        {
+            "name": "Animals",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2374
+        },
+        {
+            "name": "Angiosperms",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20646
+        },
+        {
+            "name": "Nematoda",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2472
+        },
+        {
+            "name": "Fungi",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2377
+        },
+        {
+            "name": "Green plants",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2382
+        },
+        {
+            "name": "Cyanobacteria",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2290
+        },
+        {
+            "name": "Phaeophytes (brown algae)",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21813
+        },
+        {
+            "name": "Life on Earth",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 1
+        },
+        {
+            "name": "Eukaryotes",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 3
+        },
+        {
+            "name": "Opisthokonts",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2372
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2373
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2376
+        },
+        {
+            "name": "Eubacteria",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2458
+        },
+        {
+            "name": "Bilateria",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2459
+        },
+        {
+            "name": "Deuterostomia",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2466
+        },
+        {
+            "name": "Chordata",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2499
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14820
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14822
+        },
+        {
+            "name": "Craniata",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14826
+        },
+        {
+            "name": "Vertebrata",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14829
+        },
+        {
+            "name": "Node 1",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14833
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14836
+        },
+        {
+            "name": "Node 2",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14838
+        },
+        {
+            "name": "Node 3",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14840
+        },
+        {
+            "name": "Gnathostomata",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14843
+        },
+        {
+            "name": "Node 1",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14919
+        },
+        {
+            "name": "Teleostomi",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14920
+        },
+        {
+            "name": "Osteichthyes",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14921
+        },
+        {
+            "name": "Sarcopterygii",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14922
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14944
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14948
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14950
+        },
+        {
+            "name": "Terrestrial Vertebrates",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14952
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14975
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14976
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14977
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14978
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14979
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14980
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14981
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14982
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14983
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14984
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14985
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14986
+        },
+        {
+            "name": "Tetrapoda",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14987
+        },
+        {
+            "name": "Reptiliomorpha",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14988
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14989
+        },
+        {
+            "name": "Amniota",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14990
+        },
+        {
+            "name": "Synapsida",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14845
+        },
+        {
+            "name": "Eupelycosauria",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14957
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14959
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14961
+        },
+        {
+            "name": "Sphenacodontia",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14963
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14965
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14967
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14969
+        },
+        {
+            "name": "Sphenacodontoidea",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14971
+        },
+        {
+            "name": "Therapsida",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 14973
+        },
+        {
+            "name": "Theriodontia",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15026
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15028
+        },
+        {
+            "name": "Cynodontia",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15030
+        },
+        {
+            "name": "Mammalia",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15040
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15990
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15993
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15995
+        },
+        {
+            "name": "Eutheria",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15997
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15955
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15961
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15962
+        },
+        {
+            "name": "Primates",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 15963
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16290
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16291
+        },
+        {
+            "name": "Catarrhini",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16293
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16298
+        },
+        {
+            "name": "Hominidae",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16299
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16411
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16412
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16414
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16416
+        },
+        {
+            "name": "Homo",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 16418
+        },
+        {
+            "name": "Stramenopiles",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2380
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21784
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21788
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21790
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21796
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21798
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21802
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 21811
+        },
+        {
+            "name": "Streptophyta",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20573
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20575
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20577
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20579
+        },
+        {
+            "name": "Embryophytes",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20582
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20596
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20598
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20600
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20602
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20604
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20606
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20608
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20611
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20616
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20618
+        },
+        {
+            "name": "Spermatopsida",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20622
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20626
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20628
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20630
+        },
+        {
+            "name": "none",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 20642
+        },
+        {
+            "name": "Ecdysozoa",
+            "extinct": 0,
+            "confidence": 0,
+            "id": 2467
+        }
+    ],
+    "links": [
+        {
+            "source": 2374,
+            "target": 2458
+        },
+        {
+            "source": 2382,
+            "target": 20573
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 3,
+            "target": 2372
+        },
+        {
+            "source": 3,
+            "target": 2382
+        },
+        {
+            "source": 3,
+            "target": 2380
+        },
+        {
+            "source": 2372,
+            "target": 2373
+        },
+        {
+            "source": 2372,
+            "target": 2376
+        },
+        {
+            "source": 2373,
+            "target": 2374
+        },
+        {
+            "source": 2376,
+            "target": 2377
+        },
+        {
+            "source": 2,
+            "target": 2290
+        },
+        {
+            "source": 2458,
+            "target": 2459
+        },
+        {
+            "source": 2459,
+            "target": 2466
+        },
+        {
+            "source": 2459,
+            "target": 2467
+        },
+        {
+            "source": 2466,
+            "target": 2499
+        },
+        {
+            "source": 2499,
+            "target": 14820
+        },
+        {
+            "source": 14820,
+            "target": 14822
+        },
+        {
+            "source": 14822,
+            "target": 14826
+        },
+        {
+            "source": 14826,
+            "target": 14829
+        },
+        {
+            "source": 14829,
+            "target": 14833
+        },
+        {
+            "source": 14833,
+            "target": 14836
+        },
+        {
+            "source": 14836,
+            "target": 14838
+        },
+        {
+            "source": 14838,
+            "target": 14840
+        },
+        {
+            "source": 14840,
+            "target": 14843
+        },
+        {
+            "source": 14843,
+            "target": 14919
+        },
+        {
+            "source": 14919,
+            "target": 14920
+        },
+        {
+            "source": 14920,
+            "target": 14921
+        },
+        {
+            "source": 14921,
+            "target": 14922
+        },
+        {
+            "source": 14922,
+            "target": 14944
+        },
+        {
+            "source": 14944,
+            "target": 14948
+        },
+        {
+            "source": 14948,
+            "target": 14950
+        },
+        {
+            "source": 14950,
+            "target": 14952
+        },
+        {
+            "source": 14952,
+            "target": 14975
+        },
+        {
+            "source": 14975,
+            "target": 14976
+        },
+        {
+            "source": 14976,
+            "target": 14977
+        },
+        {
+            "source": 14977,
+            "target": 14978
+        },
+        {
+            "source": 14978,
+            "target": 14979
+        },
+        {
+            "source": 14979,
+            "target": 14980
+        },
+        {
+            "source": 14980,
+            "target": 14981
+        },
+        {
+            "source": 14981,
+            "target": 14982
+        },
+        {
+            "source": 14982,
+            "target": 14983
+        },
+        {
+            "source": 14983,
+            "target": 14984
+        },
+        {
+            "source": 14984,
+            "target": 14985
+        },
+        {
+            "source": 14985,
+            "target": 14986
+        },
+        {
+            "source": 14986,
+            "target": 14987
+        },
+        {
+            "source": 14987,
+            "target": 14988
+        },
+        {
+            "source": 14988,
+            "target": 14989
+        },
+        {
+            "source": 14989,
+            "target": 14990
+        },
+        {
+            "source": 14990,
+            "target": 14845
+        },
+        {
+            "source": 14845,
+            "target": 14957
+        },
+        {
+            "source": 14957,
+            "target": 14959
+        },
+        {
+            "source": 14959,
+            "target": 14961
+        },
+        {
+            "source": 14961,
+            "target": 14963
+        },
+        {
+            "source": 14963,
+            "target": 14965
+        },
+        {
+            "source": 14965,
+            "target": 14967
+        },
+        {
+            "source": 14967,
+            "target": 14969
+        },
+        {
+            "source": 14969,
+            "target": 14971
+        },
+        {
+            "source": 14971,
+            "target": 14973
+        },
+        {
+            "source": 14973,
+            "target": 15026
+        },
+        {
+            "source": 15026,
+            "target": 15028
+        },
+        {
+            "source": 15028,
+            "target": 15030
+        },
+        {
+            "source": 15030,
+            "target": 15040
+        },
+        {
+            "source": 15040,
+            "target": 15990
+        },
+        {
+            "source": 15990,
+            "target": 15993
+        },
+        {
+            "source": 15993,
+            "target": 15995
+        },
+        {
+            "source": 15995,
+            "target": 15997
+        },
+        {
+            "source": 15997,
+            "target": 15955
+        },
+        {
+            "source": 15955,
+            "target": 15961
+        },
+        {
+            "source": 15961,
+            "target": 15962
+        },
+        {
+            "source": 15962,
+            "target": 15963
+        },
+        {
+            "source": 15963,
+            "target": 16290
+        },
+        {
+            "source": 16290,
+            "target": 16291
+        },
+        {
+            "source": 16291,
+            "target": 16293
+        },
+        {
+            "source": 16293,
+            "target": 16298
+        },
+        {
+            "source": 16298,
+            "target": 16299
+        },
+        {
+            "source": 16299,
+            "target": 16411
+        },
+        {
+            "source": 16411,
+            "target": 16412
+        },
+        {
+            "source": 16412,
+            "target": 16414
+        },
+        {
+            "source": 16414,
+            "target": 16416
+        },
+        {
+            "source": 16416,
+            "target": 16418
+        },
+        {
+            "source": 16418,
+            "target": 16421
+        },
+        {
+            "source": 2380,
+            "target": 21784
+        },
+        {
+            "source": 21784,
+            "target": 21788
+        },
+        {
+            "source": 21788,
+            "target": 21790
+        },
+        {
+            "source": 21790,
+            "target": 21796
+        },
+        {
+            "source": 21796,
+            "target": 21798
+        },
+        {
+            "source": 21798,
+            "target": 21802
+        },
+        {
+            "source": 21802,
+            "target": 21811
+        },
+        {
+            "source": 21811,
+            "target": 21813
+        },
+        {
+            "source": 20573,
+            "target": 20575
+        },
+        {
+            "source": 20575,
+            "target": 20577
+        },
+        {
+            "source": 20577,
+            "target": 20579
+        },
+        {
+            "source": 20579,
+            "target": 20582
+        },
+        {
+            "source": 20582,
+            "target": 20596
+        },
+        {
+            "source": 20596,
+            "target": 20598
+        },
+        {
+            "source": 20598,
+            "target": 20600
+        },
+        {
+            "source": 20600,
+            "target": 20602
+        },
+        {
+            "source": 20602,
+            "target": 20604
+        },
+        {
+            "source": 20604,
+            "target": 20606
+        },
+        {
+            "source": 20606,
+            "target": 20608
+        },
+        {
+            "source": 20608,
+            "target": 20611
+        },
+        {
+            "source": 20611,
+            "target": 20616
+        },
+        {
+            "source": 20616,
+            "target": 20618
+        },
+        {
+            "source": 20618,
+            "target": 20622
+        },
+        {
+            "source": 20622,
+            "target": 20626
+        },
+        {
+            "source": 20626,
+            "target": 20628
+        },
+        {
+            "source": 20628,
+            "target": 20630
+        },
+        {
+            "source": 20630,
+            "target": 20642
+        },
+        {
+            "source": 20642,
+            "target": 20646
+        },
+        {
+            "source": 2467,
+            "target": 2472
+        }
+    ]
+}
