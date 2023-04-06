@@ -1,0 +1,1 @@
+import{b as r}from"./paths.2765c717.js";import{P as a}from"./papaparse.min.ea907a2a.js";const o=({fetch:t})=>t(`${r}/data/06/API_EN.ATM.PM25.MC.M3_DS2_en_csv_v2_5362918.csv`).then(e=>e.text()).then(e=>a.parse(e,{header:!0})),p=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{p as _,o as l};
