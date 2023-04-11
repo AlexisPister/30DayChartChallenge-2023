@@ -1,1 +1,0 @@
-import{b as r}from"./paths.6d58faee.js";import{P as a}from"./papaparse.min.6c13f401.js";const o=({fetch:t})=>t(`${r}/data/01/life_expect_eu.pd.csv`).then(e=>e.text()).then(e=>a.parse(e)),s=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{s as _,o as l};

@@ -321,8 +321,6 @@
             .attr("font-size", "29px")
             // .attr("stroke", "black")
 
-
-
         let fr = dataProc.filter(d => d["Country Name"] == "Lithuania")[0]
 
         let yearValues = d3.range(yearMin, yearMax + 1).map(year => {
