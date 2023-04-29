@@ -5,11 +5,24 @@
     <link rel="icon" href="%sveltekit.assets%/favicon.png"/>
     <meta name="viewport" content="width=device-width"/>
     %sveltekit.head%
+
+
+    <style>
+        body {
+            font-family: Rasa;
+            /*background-color: rgba(18, 31, 65, 1);*/
+            /*color: white;*/
+        }
+    </style>
+
 </head>
 <body data-sveltekit-preload-data="hover">
 <div style="display: contents">%sveltekit.body%</div>
 </body>
 
+<script src="https://cdn.jsdelivr.net/npm/bertin@1.7" charset="utf-8"></script>
+
+<!--Needed for geo3rect-->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://npmcdn.com/@turf/turf/turf.min.js"></script>
 <script src="../modules/d3geo2rect/build/geo2rect.js"></script>
