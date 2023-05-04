@@ -300,11 +300,6 @@
 
 
 <style>
-    :global(body) {
-        /*font-family: Rasa;*/
-        /*background-color: #ffb0b0;*/
-    }
-
     #container {
         display: flex;
         flex-direction: column;

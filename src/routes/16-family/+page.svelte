@@ -393,16 +393,16 @@
     }
 </script>
 
-
-<style>
-    :global(body) {
-        /*font-family: Rasa;*/
-        /*background-color: #428ad2;*/
-        /*background-color: #311100;*/
+<svelte:head>
+    <style>
+    body {
         background-color: #4f210e;
         color: white;
     }
+  </style>
+</svelte:head>
 
+<style>
     #container {
         display: flex;
         flex-direction: column;

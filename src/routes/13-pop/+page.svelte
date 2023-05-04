@@ -7,8 +7,6 @@
     export let data;
     const mainData = data.data
     console.log(Object.keys(mainData[0]))
-    // console.log(mainData.map(d => d.genres))
-    // console.log(mainData.map(d => d.runtime))
 
 
     let mainData2 = mainData
@@ -107,13 +105,7 @@
     }
 </script>
 
-
 <style>
-    :global(body) {
-        /*font-family: Rasa;*/
-        /*background-color: #428ad2;*/
-    }
-
     #container {
         display: flex;
         flex-direction: column;

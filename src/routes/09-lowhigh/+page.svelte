@@ -272,13 +272,15 @@
 </script>
 
 
-<style>
-    :global(body) {
-        font-family: Rasa;
+<svelte:head>
+    <style>
+    body {
         background-color: rgba(162, 99, 164, 0.2);
-        /*background-color: rgb(255, 255, 255);*/
     }
+  </style>
+</svelte:head>
 
+<style>
     #container {
         display: flex;
         flex-direction: column;

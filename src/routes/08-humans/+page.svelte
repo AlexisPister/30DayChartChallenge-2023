@@ -163,15 +163,18 @@
     }
 </script>
 
-
-<style>
-    :global(body) {
-        font-family: Rasa;
+<svelte:head>
+    <style>
+    body {
         background-color: rgba(18, 31, 65, 1);
         /*background-color: rgba(18, 5, 59, 0.95);*/
         color: white;
     }
+  </style>
+</svelte:head>
 
+
+<style>
     a {
         color: white;
     }

@@ -212,7 +212,6 @@
                     return COLORS[0]
                 }
                 return "lightgray"
-                // return "gray"
             })
             .attr("stroke-width", d => {
                 if (d["Country Name"] == name) {
@@ -409,16 +408,15 @@
 
 </script>
 
+<svelte:head>
+    <style>
+    body {
+        background-color: #78a0c4;
+    }
+  </style>
+</svelte:head>
 
 <style>
-    :global(body) {
-        font-family: Rasa;
-        /*background-color: #f4efff;*/
-        /*background-color: #b3e0ef;*/
-        background-color: #78a0c4;
-        /*background-color: #428ad2;*/
-    }
-
     #container {
         display: flex;
         flex-direction: column;

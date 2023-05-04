@@ -190,11 +190,6 @@
 
 
 <style>
-    :global(body) {
-        /*font-family: Rasa;*/
-        /*background-color: #428ad2;*/
-    }
-
     #container {
         display: flex;
         flex-direction: column;

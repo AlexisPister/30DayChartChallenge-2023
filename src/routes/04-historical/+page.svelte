@@ -174,10 +174,6 @@
 
 
 <style>
-    :global(body) {
-        font-family: Rasa;
-    }
-
     #container {
         display: flex;
         flex-direction: column;

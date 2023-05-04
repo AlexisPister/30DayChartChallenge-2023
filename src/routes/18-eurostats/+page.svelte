@@ -148,14 +148,6 @@
 
 
 <style>
-    :global(body) {
-        /*font-family: Rasa;*/
-        /*background-color: #428ad2;*/
-        /*background-color: #311100;*/
-        /*background-color: #474948;*/
-        /*color: white;*/
-    }
-
     #container {
         display: flex;
         flex-direction: column;

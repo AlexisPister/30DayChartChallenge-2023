@@ -319,19 +319,16 @@
     }
 </script>
 
-
-<style>
-    :global(body) {
-        /*background-color: #f8f8f8;*/
-        /*background-color: #f6e2c5;*/
-        /*background-color: #fff1e0;*/
-        /*background-color: rgba(113, 248, 35, 0.32);*/
+<svelte:head>
+    <style>
+    body {
         background-color: rgba(222, 235, 247, 0.8);
-        /*background-color: #deebf7;*/
-        /*background-color: rgba(89, 52, 2, 0.4);*/
         font-family: Rasa;
     }
+  </style>
+</svelte:head>
 
+<style>
     .option {
         padding: 3px;
     }
