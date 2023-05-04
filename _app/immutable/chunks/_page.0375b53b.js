@@ -1,1 +1,0 @@
-import{b as o}from"./paths.606c2cda.js";import{P as r}from"./papaparse.min.ea907a2a.js";const a=({fetch:t})=>t(`${o}/data/13/tmdb_5000_movies.csv`).then(e=>e.text()).then(e=>r.parse(e,{header:!0})),_=Object.freeze(Object.defineProperty({__proto__:null,load:a},Symbol.toStringTag,{value:"Module"}));export{_,a as l};
