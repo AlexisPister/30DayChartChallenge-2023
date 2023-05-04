@@ -1,0 +1,585 @@
+﻿Np,Nf,Jour,Date,Wake Time,Bed Time,Research,Music,Read,Cold Shower,Exercize,Cardio,No Sugar,Others,Comment,Meditation,Greek,Jeune Intermittent
+No,No,Mon,"July 20, 2020",7:00,23:45,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,No,Tue,"July 21, 2020",7:00,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Wed,"July 22, 2020",7:30,0:00,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,No,Thu,"July 23, 2020",7:30,23:45,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Fri,"July 24, 2020",7:30,4:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sat,"July 25, 2020",11:00,4:00,No,No,No,No,Yes,No,No,,,No,No,No
+No,Yes,Sun,"July 26, 2020",11:00,00:30,No,No,No,No,Yes,No,No,,,No,No,No
+No,No,Mon,"July 27, 2020",7:30,00:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Tue,"July 28, 2020",7:30,00:45,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Wed,"July 29, 2020",7:30,0:30,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Thu,"July 30, 2020",8:30,1:30,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,No,Fri,"July 31, 2020",7:30,3:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sat,"August 1, 2020",8:30,23:45,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Sun,"August 2, 2020",10:30,1:00,No,No,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Mon,"August 3, 2020",7:30,23:50,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"August 4, 2020",7:30,00:00,No,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Wed,"August 5, 2020",7:30,0:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Thu,"August 6, 2020",7:30,23;45,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Fri,"August 7, 2020",7:30,23:45,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sat,"August 8, 2020",8:30,0:00,No,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Sun,"August 9, 2020",9:00,0:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Mon,"August 10, 2020",7:30,0:00,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,No,Tue,"August 11, 2020",7:30,0:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Wed,"August 12, 2020",7:30,0:15,Yes,Yes,No,Yes,No,No,No,,,No,No,No
+No,Yes,Thu,"August 13, 2020",7:30,00:30,Yes,Yes,Yes,Yes,Yes,Yes,No,,,No,No,No
+No,No,—— Vacances Italie,"August 14, 2020",,,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Sat,"September 5, 2020",10:45,1:20,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Sun,"September 6, 2020",9:30,1:00,No,Yes,No,Yes,No,No,No,,,No,No,No
+No,No,Mon,"September 7, 2020",7:30,0:00,Yes,No,Yes,Yes,No,No,No,,,No,No,No
+No,No,Tue,"September 8, 2020",7:30,0:00,Yes,Yes,No,Yes,No,No,No,,,No,No,No
+No,No,Wed,"September 9, 2020",7:30,0:20,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Thu,"September 10, 2020",7:45,0:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Fri,"September 11, 2020",7:30,1:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sat,"September 12, 2020",9:15,0:45,No,Yes,Yes,Yes,Yes,Yes,No,,,No,No,No
+No,Yes,Sun,"September 13, 2020",9:30,0:15,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"September 14, 2020",7:15,0:00,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,No,Tue,"September 15, 2020",10:30,0:20,No,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Wed,"September 16, 2020",7:30,0:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Thu,"September 17, 2020",7:30,1:10,Yes,No,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Fri,"September 18, 2020",8:30,2:30,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Sat,"September 19, 2020",10:10,3:00,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Sun,"September 20, 2020",11:20,0:15,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Mon,"September 21, 2020",7:15,0:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"September 22, 2020",8:20,0:15,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Wed,"September 23, 2020",7:30,0:10,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Thu,"September 24, 2020",7:30,0:40,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Fri,"September 25, 2020",8:20,0:40,Yes,Yes,No,No,Yes,No,No,,,No,No,No
+No,Yes,Sat,"September 26, 2020",9:30,2:45,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"September 27, 2020",11:45,0:10,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Mon,"September 28, 2020",7:30,0:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Tue,"September 29, 2020",8:15,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Wed,"September 30, 2020",8:10,0:10,Yes,No,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Thu,"October 1, 2020",8:30,0:15,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,No,Fri,"October 2, 2020",7:30,1:00,No,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Sat,"October 3, 2020",9:30,3:15,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"October 4, 2020",11:00,0:00,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Mon,"October 5, 2020",7:15,0:20,Yes,Yes,No,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"October 6, 2020",7:15,0:25,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Wed,"October 7, 2020",7:15,0:20,Yes,Yes,No,No,No,Yes,No,,,No,No,No
+No,Yes,Thu,"October 8, 2020",7:30,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Fri,"October 9, 2020",7:30,1:35,Yes,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sat,"October 10, 2020",9:00,23:45,No,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sun,"October 11, 2020",10:00,0:10,No,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Mon,"October 12, 2020",7:15,0:30,Yes,Yes,Yes,No,No,Yes,No,,,No,No,No
+No,Yes,Tue,"October 13, 2020",7:30,0:00,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Wed,"October 14, 2020",7:30,1:00,Yes,Yes,Yes,No,No,Yes,No,,,No,No,No
+No,Yes,Thu,"October 15, 2020",7:30,0:30,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Fri,"October 16, 2020",8:15,0:35,Yes,Yes,No,No,Yes,No,No,,,No,No,No
+No,Yes,Sat,"October 17, 2020",9:00,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"October 18, 2020",9:15,0:30,Yes,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"October 19, 2020",7:30,1:00,Yes,Yes,No,No,Yes,No,No,,,No,No,No
+No,Yes,Tue,"October 20, 2020",6:45,0:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Wed,"October 21, 2020",7:30,0:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Thu,"October 22, 2020",6:45,0:00,No,Yes,No,No,Yes,No,No,,,No,No,No
+No,Yes,Fri,"October 23, 2020",8:20,0:00,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Sat,"October 24, 2020",8:45,1:00,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sun,"October 25, 2020",9:40,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"October 26, 2020",9:00,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Tue,"October 27, 2020",9:00,0:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Wed,"October 28, 2020",7:30,0:30,Yes,Yes,Yes,No,No,Yes,No,,,No,No,No
+No,Yes,Thu,"October 29, 2020",11:00,0:45,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Fri,"October 30, 2020",7:30,0:30,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,Yes,Sat,"October 31, 2020",9:50,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"November 1, 2020",9:50,1:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Mon,"November 2, 2020",8:15,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Tue,"November 3, 2020",8:00,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Wed,"November 4, 2020",8:30,0:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Thu,"November 5, 2020",8:40,0:15,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Fri,"November 6, 2020",8:00,1:00,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sat,"November 7, 2020",9:40,1:00,No,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Sun,"November 8, 2020",9:00,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Mon,"November 9, 2020",8:00,0:50,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Tue,"November 10, 2020",8:00,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Wed,"November 11, 2020",10:20,1:15,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Thu,"November 12, 2020",8:15,1:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Fri,"November 13, 2020",8:15,1:30,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Sat,"November 14, 2020",10:30,1:30,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"November 15, 2020",9:00,1:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Mon,"November 16, 2020",9:25,1:30,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Tue,"November 17, 2020",9:35,1:30,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Wed,"November 18, 2020",9:30,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Thu,"November 19, 2020",8:45,1:15,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Fri,"November 20, 2020",8:00,1:15,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sat,"November 21, 2020",10:10,2:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sun,"November 22, 2020",10:00,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"November 23, 2020",8:20,0:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Tue,"November 24, 2020",9:30,1:15,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,Yes,Wed,"November 25, 2020",8:00,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Thu,"November 26, 2020",8:00,0:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Fri,"November 27, 2020",8:30,1:30,Yes,Yes,Yes,No,No,Yes,No,,,No,No,No
+No,Yes,Sat,"November 28, 2020",9:30,1:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sun,"November 29, 2020",9:15,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Mon,"November 30, 2020",7:30,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"December 1, 2020",7:30,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Wed,"December 2, 2020",8:15,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Thu,"December 3, 2020",8:30,0:50,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Fri,"December 4, 2020",8:30,1:15,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sat,"December 5, 2020",10:15,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"December 6, 2020",10:45,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"December 7, 2020",8:00,1:30,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"December 8, 2020",8:30,1:10,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Wed,"December 9, 2020",8:30,0:10,No,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Thu,"December 10, 2020",7:30,0:15,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Fri,"December 11, 2020",9:30,1:30,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,Yes,Sat,"December 12, 2020",10:00,1:30,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,Yes,Sun,"December 13, 2020",9:30,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Mon,"December 14, 2020",7:30,3:00,Yes,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Tue,"December 15, 2020",9:00,2:00,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,Yes,Wed,"December 16, 2020",8:40,2:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Thu,"December 17, 2020",10:55,1:35,Yes,No,Yes,No,No,No,No,,,No,No,No
+No,No,Fri,"December 18, 2020",10:20,1:30,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sat,"December 19, 2020",9:30,1:50,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,Yes,Sun,"December 20, 2020",10:00,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Mon,"December 21, 2020",10:15,1:15,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Tue,"December 22, 2020",10:00,2:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Wed,"December 23, 2020",10:20,2:30,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Thu,"December 24, 2020",11:24,1:00,No,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Fri,"December 25, 2020",10:45,2:00,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Sat,"December 26, 2020",11:00,1:45,No,No,No,No,No,Yes,No,,,No,No,No
+No,No,Sun,"December 27, 2020",8:00,0:45,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Mon,"December 28, 2020",10:30,1:00,No,No,Yes,No,No,No,No,,,No,No,No
+No,Yes,Tue,"December 29, 2020",8:00,2:30,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Wed,"December 30, 2020",10:45,1:00,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Thu,"December 31, 2020",8:15,6:00,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Fri,"January 1, 2021",11:30,0:20,No,No,No,No,No,No,No,,,No,No,No
+No,Yes,Sat,"January 2, 2021",11:10,1:00,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,No,Sun,"January 3, 2021",9:15,0:30,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,No,Mon,"January 4, 2021",7:30,0:50,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,No,Tue,"January 5, 2021",9:45,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Wed,"January 6, 2021",9:55,1:20,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Thu,"January 7, 2021",11:00,3:10,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Fri,"January 8, 2021",9:20,2:00,No,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"January 9, 2021",9:15,2:00,No,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"January 10, 2021",10:00,2:10,Yes,Yes,No,Yes,No,No,No,,,No,No,No
+Yes,No,Mon,"January 11, 2021",9:50,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"January 12, 2021",8:30,3:10,Yes,No,Yes,Yes,No,No,No,,,No,No,No
+No,No,Wed,"January 13, 2021",8:50,5:20,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"January 14, 2021",10:30,0:30,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Fri,"January 15, 2021",11:00,1:30,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Mon,"January 16, 2021",9:00,1:40,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"January 16, 2021",10:00,1:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,No,Sun,"January 17, 2021",11:15,1:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"January 19, 2021",9:00,2:10,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Wed,"January 20, 2021",10:45,1:30,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Thu,"January 21, 2021",8:00,0:40,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Fri,"January 22, 2021",8:25,2:30,Yes,No,Yes,Yes,No,Yes,No,,,Yes,No,No
+No,No,Sat,"January 23, 2021",8:30,2:30,Yes,Yes,Yes,Yes,Yes,No,No,,,Yes,No,No
+Yes,Yes,Sun,"January 24, 2021",12:00,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,Yes,No,No
+Yes,Yes,Mon,"January 25, 2021",8:30,1:30,Yes,Yes,Yes,Yes,Yes,No,No,,,Yes,No,No
+Yes,Yes,Tue,"January 26, 2021",8:45,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,Yes,No,No
+Yes,Yes,Wed,"January 27, 2021",8:30,1:15,Yes,Yes,Yes,Yes,Yes,No,No,,,Yes,No,No
+Yes,Yes,Thu,"January 28, 2021",8:50,1:50,Yes,No,Yes,Yes,No,Yes,No,,,Yes,No,No
+Yes,Yes,Fri,"January 29, 2021",10:00,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"January 30, 2021",9:00,1:15,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"January 31, 2021",9:00,1:25,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Mon,"February 1, 2021",8:20,1:20,Yes,Yes,Yes,Yes,Yes,No,No,,,Yes,No,No
+Yes,Yes,Tue,"February 2, 2021",8:20,1:30,Yes,Yes,Yes,Yes,No,Yes,No,,,Yes,No,No
+Yes,No,Wed,"February 3, 2021",8:30,0:50,Yes,Yes,Yes,No,Yes,No,No,,,Yes,No,No
+No,No,Thu,"February 4, 2021",8:00,0:50,Yes,Yes,Yes,Yes,No,Yes,No,,,Yes,No,No
+Yes,Yes,Fri,"February 5, 2021",8:20,23:50,Yes,No,Yes,No,Yes,No,No,,,No,No,No
+Yes,Yes,Sa,"February 6, 2021",9:50,0:30,No,No,Yes,No,Yes,No,No,,,Yes,No,No
+Yes,Yes,Sun,"February 7, 2021",9:50,0:50,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Mon,"February 8, 2021",8:15,1:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"February 9, 2021",8:30,0:15,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Wed,"February 10, 2021",8:00,0:00,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+Yes,No,Thu,"February 11, 2021",8:00,0:40,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,No,Fri,"February 12, 2021",9:30,0:40,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Sat,"February 13, 2021",9:00,2:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"February 14, 2021",11:00,1:10,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,No,Mon,"February 15, 2021",8:00,0:20,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,No,Tue,"February 16, 2021",8:00,0:35,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,No,Wed,"February 17, 2021",8:30,1:00,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,No,Thu,"February 18, 2021",8:00,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Fri,"February 19, 2021",9:00,1:00,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Fri,"February 20, 2021",8:00,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"February 20, 2021",9:00,1:15,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"February 21, 2021",9:20,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+No,No,Mon,"February 22, 2021",8:00,0:45,Yes,Yes,No,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"February 23, 2021",9:10,0:30,Yes,No,No,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Wed,"February 24, 2021",8:30,1:00,Yes,No,No,Yes,Yes,No,No,,,No,No,No
+Yes,No,Thu,"February 25, 2021",9:00,0:30,Yes,Yes,Yes,Yes,No,No,No,,,No,No,No
+No,No,Fri,"February 26, 2021",8:00,1:00,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sat,"February 27, 2021",9:25,2:00,No,No,Yes,No,No,No,No,,,No,No,No
+Yes,No,Sun,"February 28, 2021",9:50,23:50,No,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Mon,"March 1, 2021",8:00,21:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Tue,"March 2, 2021",11:00,0:30,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Wed,"March 3, 2021",8:45,1:00,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Thu,"March 4, 2021",9:30,1:00,Yes,Yes,Yes,No,No,Yes,No,,,No,No,No
+Yes,Yes,Fri,"March 5, 2021",9:50,2:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"March 6, 2021",9:30,1:30,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"March 7, 2021",10:45,0:40,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Mon,"March 8, 2021",8:00,0:10,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+Yes,Yes,Tue,"March 9, 2021",10:00,0:30,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Wed,"March 10, 2021",8:00,0:30,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Thu,"March 11, 2021",9:45,0:35,Yes,No,Yes,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Fri,"March 12, 2021",9:45,1:00,Yes,No,Yes,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Sat,"March 13, 2021",11:30,0:30,No,No,Yes,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Sun,"March 14, 2021",9:30,1:00,Yes,No,Yes,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Mon,"March 15, 2021",8:48,0:30,Yes,No,No,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Tue,"March 16, 2021",10:50,0:20,Yes,No,No,No,No,No,No,,Sick,No,No,No
+Yes,Yes,Wed,"March 17, 2021",8:30,1:00,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"March 18, 2021",10:15,0:00,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Fri,"March 19, 2021",8:50,1:00,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"March 20, 2021",11:30,2:10,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"March 21, 2021",11:50,1:45,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Mon,"March 22, 2021",8:30,0:45,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"March 23, 2021",10:10,0:45,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,No,Wed,"March 24, 2021",8:30,0:40,Yes,Yes,No,No,No,No,No,,,Yes,No,No
+No,No,Thu,"March 25, 2021",8:00,1:20,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Fri,"March 26, 2021",8:30,1:00,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Sat,"March 27, 2021",10:30,2:20,No,No,No,No,No,No,No,,,No,No,No
+No,No,Sun,"March 28, 2021",9:30,0:40,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,No,Mon,"March 29, 2021",8:50,0:50,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"March 30, 2021",9:50,0:35,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Wed,"March 31, 2021",9:55,0:50,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Thu,"April 1, 2021",8:30,0:30,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,No,Fri,"April 2, 2021",8:15,1:10,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"April 3, 2021",10:15,0:45,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"April 4, 2021",9:30,1:35,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Mon,"April 5, 2021",9:30,0:40,No,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"April 6, 2021",8:30,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Wed,"April 7, 2021",8:30,0:30,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,No,Thu,"April 8, 2021",7:00,1:00,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Fri,"April 9, 2021",10:00,2:00,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"April 10, 2021",11:20,1:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"April 11, 2021",9:30,1:10,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Mon,"April 12, 2021",8:00,1:05,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Tue,"April 13, 2021",9:30,0:15,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Wed,"April 14, 2021",8:00,1:05,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"April 15, 2021",8:45,0:40,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Fri,"April 16, 2021",8:35,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"April 17, 2021",9:30,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sun,"April 18, 2021",9:30,0:25,No,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Mon,"April 19, 2021",8:00,1:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Tue,"April 20, 2021",8:00,0:15,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"April 21, 2021",8:30,0:10,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"April 22, 2021",8:00,0:25,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Fri,"April 23, 2021",8:45,1:10,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"April 24, 2021",9:30,1:20,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"April 25, 2021",9:30,0:45,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Mon,"April 26, 2021",8:45,1:10,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+No,No,Tue,"April 27, 2021",8:30,0:35,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"April 28, 2021",10:00,,No,No,No,No,No,No,No,Bad Sleep,,No,No,No
+Yes,Yes,Wed,"April 28, 2021",8:35,0:20,Yes,Yes,No,Yes,Yes,No,No,,,No,No,No
+No,No,Thu,"April 29, 2021",9:00,1:10,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Fri,"April 30, 2021",8:30,0:45,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sat,"May 1, 2021",10:45,1:35,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sun,"May 2, 2021",9:30,0:55,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Mon,"May 3, 2021",9:00,0:45,Yes,Yes,Yes,No,Yes,No,Yes,,,No,No,No
+Yes,Yes,Tue,"May 4, 2021",8:30,0:50,Yes,No,Yes,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Wed,"May 5, 2021",8:30,0:35,Yes,No,Yes,No,No,No,Yes,,,No,No,No
+No,No,Thu,"May 6, 2021",8:30,0:30,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+No,No,Fri,"May 7, 2021",8:30,0:50,Yes,No,Yes,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Sat,"May 8, 2021",9:30,1:30,No,No,Yes,No,Yes,No,Yes,,,No,No,No
+Yes,Yes,Sun,"May 9, 2021",9:30,0:35,Yes,Yes,Yes,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Mon,"May 10, 2021",9:10,0:45,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Tue,"May 11, 2021",8:30,1:10,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Wed,"May 12, 2021",8:00,1:15,Yes,Yes,Yes,No,No,No,Yes,,,No,No,No
+Yes,Yes,Thu,"May 13, 2021",11:00,1:45,No,No,Yes,No,No,No,No,Vacation,,No,No,No
+Yes,Yes,Fri,"May 14, 2021",10:30,,No,No,No,No,No,No,No,Vacation,,No,No,No
+Yes,Yes,Sat,"May 15, 2021",,,No,No,No,No,No,No,No,Vacation,,No,No,No
+Yes,Yes,Sun,"May 16, 2021",,0:50,No,No,No,No,No,No,No,Vacation,,No,No,No
+No,No,Mon,"May 17, 2021",8:50,0:20,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"May 18, 2021",8:50,0:30,Yes,No,No,Yes,Yes,No,Yes,,,No,No,No
+No,No,Wed,"May 19, 2021",8:40,0:50,Yes,No,No,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Thu,"May 20, 2021",8:30,0:45,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Fri,"May 21, 2021",8:35,1:00,Yes,No,No,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sat,"May 22, 2021",9:50,2:000,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+No,No,,"May 23, 2021",,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"May 23, 2021",10:30,1:45,Yes,Yes,Yes,No,No,No,Yes,Social,,No,No,No
+Yes,Yes,Mon,"May 24, 2021",10:20,1:30,No,No,Yes,Yes,No,Yes,Yes,Vacation,,No,No,No
+No,No,Tue,"May 25, 2021",8:30,0:40,Yes,No,No,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Wed,"May 26, 2021",8:45,1:00,Yes,No,Yes,No,No,No,Yes,,,No,No,No
+Yes,Yes,Thu,"May 27, 2021",9:05,0:30,Yes,No,No,Yes,No,Yes,Yes,,,No,No,No
+Yes,No,Fri,"May 28, 2021",7:05,23:55,Yes,No,Yes,Yes,No,No,Yes,Train,,No,No,No
+Yes,Yes,Sat,"May 29, 2021",9:50,23:45,No,No,No,No,No,No,No,Vacation,,No,No,No
+Yes,Yes,Sun,"May 30, 2021",10:00,0:50,Yes,No,No,No,No,No,No,"Bad Sleep, Vacation",,No,No,No
+Yes,Yes,Mon,"May 31, 2021",8:50,0:00,Yes,No,No,Yes,Yes,No,Yes,,,No,No,No
+No,No,Tue,"June 1, 2021",8:30,0:30,Yes,No,No,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Wed,"June 2, 2021",8:30,0:00,Yes,No,No,No,No,No,Yes,,,No,No,No
+Yes,Yes,Thu,"June 3, 2021",8:00,0:30,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+No,No,Fri,"June 4, 2021",9:20,0:30,Yes,No,Yes,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Sat,"June 5, 2021",9:00,3:00,No,No,Yes,Yes,Yes,No,No,"Social, Train",,No,No,No
+No,No,Sat,"June 6, 2021",8:20,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sun,"June 6, 2021",11:00,0:20,No,No,Yes,No,No,No,Yes,Hangover,,No,No,No
+No,No,Mon,"June 7, 2021",8:20,0:55,Yes,No,Yes,Yes,No,No,Yes,,,No,No,No
+Yes,Yes,Tue,"June 8, 2021",8:30,0:15,Yes,No,Yes,No,No,No,Yes,,,No,No,No
+Yes,Yes,Wed,"June 9, 2021",8:00,0:00,Yes,No,No,No,No,No,Yes,Social,,No,No,No
+No,No,Thu,"June 10, 2021",8:20,0:20,No,No,No,No,No,No,Yes,Hangover,,No,No,No
+Yes,Yes,Fri,"June 11, 2021",7:40,0:10,Yes,No,Yes,No,No,No,Yes,,,No,No,No
+Yes,Yes,Sat,"June 12, 2021",8:20,2:00,No,Yes,Yes,Yes,Yes,No,Yes,Social,,No,No,No
+Yes,Yes,Sun,"June 13, 2021",9:20,1:00,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Mon,"June 14, 2021",8:40,0:20,Yes,Yes,Yes,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Tue,"June 15, 2021",8:10,1:15,Yes,Yes,Yes,Yes,No,Yes,Yes,,,No,No,No
+Yes,Yes,Wed,"June 16, 2021",7:00,0:40,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+Yes,Yes,Thu,"June 17, 2021",9:25,0:00,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Fri,"June 18, 2021",8:00,1:05,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"June 19, 2021",9:00,1:30,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"June 20, 2021",9:30,0:15,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Mon,"June 21, 2021",8:30,0:10,Yes,No,Yes,No,No,No,No,Bad Sleep,,No,No,No
+No,No,Tue,"June 22, 2021",8:30,0:30,Yes,No,No,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"June 23, 2021",7:00,2:30,Yes,No,No,No,No,No,No,Social,,No,No,No
+Yes,Yes,Thu,"June 24, 2021",8:00,23:30,Yes,No,Yes,Yes,No,No,No,Bad Sleep,,No,No,No
+Yes,Yes,Fri,"June 25, 2021",8:50,2:00,No,No,No,Yes,No,No,No,Social,,No,No,No
+Yes,Yes,Sat,"June 26, 2021",11:20,4:00,No,No,Yes,Yes,No,Yes,No,"Bad Sleep, Hangover, Social",,No,No,No
+Yes,Yes,Sun,"June 27, 2021",11:00,1:00,No,No,Yes,No,No,No,No,"Hangover, Social",,No,No,No
+Yes,Yes,Mon,"June 28, 2021",9:00,0:30,Yes,Yes,Yes,No,No,No,Yes,Vaccin,,No,No,No
+Yes,Yes,Tue,"June 29, 2021",8:50,0:35,Yes,No,No,No,No,No,No,Massage,,No,No,No
+No,No,Wed,"June 30, 2021",8:20,23:00,Yes,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"July 1, 2021",5:45,0:30,Yes,No,No,No,No,No,No,Away,,No,No,No
+Yes,Yes,Fri,"July 2, 2021",9:20,0:30,Yes,No,No,No,No,No,No,Away,,No,No,No
+Yes,Yes,Sat,"July 3, 2021",10:30,0:40,No,No,No,No,No,No,No,Away,,No,No,No
+Yes,Yes,Sun,"July 4, 2021",9:55,0:45,Yes,No,Yes,No,No,No,No,"Away, Train, Vacation",,No,No,No
+Yes,Yes,Mon,"July 5, 2021",7:00,0:30,Yes,No,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"July 6, 2021",7:00,0:05,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"July 7, 2021",7:00,0:20,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Thu,"July 8, 2021",7:40,1:20,Yes,No,No,Yes,Yes,No,No,Social,,No,No,No
+No,No,Fri,"July 9, 2021",8:30,1:00,Yes,No,No,No,No,No,No,Hangover,,No,No,No
+Yes,Yes,Sat,"July 10, 2021",8:25,1:00,Yes,Yes,No,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sun,"July 11, 2021",10:00,0:30,No,No,Yes,Yes,Yes,No,No,"Cinema, Social",,No,No,No
+No,No,Mon,"July 12, 2021",9:30,0:00,Yes,No,No,No,No,No,No,Social,,No,No,No
+Yes,Yes,Tue,"July 13, 2021",7:00,0:00,Yes,No,Yes,No,No,No,No,"Bath, Hangover",,No,No,No
+Yes,Yes,Wed,"July 14, 2021",9:30,0:40,No,Yes,Yes,No,Yes,No,No,Social,,No,No,No
+No,Yes,Thu,"July 15, 2021",8:45,0:40,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Fri,"July 16, 2021",8:30,3:00,Yes,No,Yes,Yes,Yes,No,No,Social,,No,No,No
+Yes,Yes,Sat,"July 17, 2021",11:00,1:30,No,Yes,Yes,Yes,No,Yes,No,Hangover,,No,No,No
+Yes,Yes,Sun,"July 18, 2021",10:00,0:20,No,No,Yes,No,No,No,No,Social,,No,No,No
+No,No,Mon,"July 19, 2021",9:00,23:40,No,No,No,Yes,Yes,No,No,Bad Sleep,,No,No,No
+Yes,Yes,Tue,"July 20, 2021",7:00,0:40,Yes,No,No,No,No,No,No,"Bad Sleep, Cinema",,No,No,No
+Yes,Yes,Wed,"July 21, 2021",8:00,0:20,Yes,No,Yes,Yes,Yes,No,Yes,,,No,No,No
+No,No,Thu,"July 22, 2021",10:20,0:20,Yes,No,Yes,Yes,No,Yes,No,"Social, Swimming",,No,No,No
+Yes,Yes,Fri,"July 23, 2021",8:45,0:40,Yes,No,No,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Sat,"July 24, 2021",8:45,23:50,No,No,No,No,No,No,No,"Away, Social",,No,No,No
+Yes,Yes,Sun,"July 25, 2021",10:10,0:40,No,No,No,Yes,No,Yes,No,"Away, Bad Sleep",,No,No,No
+No,No,Mon,"July 26, 2021",8:40,0:40,Yes,No,No,Yes,Yes,No,No,,,No,No,No
+No,No,,"July 27, 2021",,,No,No,No,No,No,No,No,,,No,No,No
+No,No,Tue,"July 27, 2021",8:40,0:55,Yes,No,No,Yes,No,Yes,No,,,No,No,No
+Yes,No,Wed,"July 28, 2021",8:40,2:00,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Thu,"July 29, 2021",8:55,1:00,Yes,Yes,Yes,No,No,Yes,No,Swimming,,No,No,No
+No,No,Fri,"July 30, 2021",8:45,1:45,Yes,Yes,Yes,Yes,Yes,No,No,Social,,No,No,No
+Yes,Yes,Sat,"July 31, 2021",10:30,3:00,No,Yes,Yes,No,No,No,No,Social,,No,No,No
+Yes,Yes,Sun,"August 1, 2021",11:00,0:40,No,Yes,Yes,Yes,No,Yes,No,Hangover,,No,No,No
+Yes,Yes,Mon,"August 2, 2021",8:30,0:00,Yes,No,Yes,Yes,Yes,No,No,Social,,No,No,No
+Yes,Yes,Tue,"August 3, 2021",8:30,0:00,Yes,No,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Wed,"August 4, 2021",8:30,0:00,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+No,No,Thu,"August 5, 2021",8:50,0:50,Yes,No,Yes,No,No,No,No,Social,,No,No,No
+Yes,Yes,Fri,"August 6, 2021",7:45,0:25,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+Yes,Yes,Sat,"August 7, 2021",9:00,2:45,No,Yes,Yes,Yes,Yes,No,No,"Social, drug",,No,No,No
+Yes,Yes,Sun,"August 8, 2021",10:40,0:30,No,Yes,No,No,No,No,No,Hangover,,No,No,No
+No,No,Mon,"August 9, 2021",8:00,0:50,Yes,Yes,Yes,Yes,No,Yes,No,Bad Sleep,,No,No,No
+Yes,Yes,Tue,"August 10, 2021",8:00,0:25,Yes,Yes,No,No,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"August 11, 2021",8:00,0:50,Yes,Yes,No,No,No,No,No,Bad Sleep,,No,No,No
+Yes,Yes,Thu,"August 12, 2021",8:00,0:25,Yes,Yes,Yes,Yes,No,Yes,No,Social,,No,No,No
+No,No,Fri,"August 13, 2021",8:40,0:30,Yes,Yes,No,No,Yes,No,No,"Bad Sleep, Social",,No,No,No
+No,No,,"August 14, 2021",,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"August 14, 2021",9:00,0:00,No,Yes,Yes,No,No,No,No,Away,,No,No,No
+Yes,No,Sun,"August 15, 2021",9:00,0:45,No,Yes,Yes,No,No,No,No,Away,,No,No,No
+Yes,No,Mon,"August 16, 2021",8:00,0:50,Yes,Yes,Yes,Yes,No,Yes,No,,,No,No,No
+No,No,Tue,"August 17, 2021",8:30,0:45,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"August 18, 2021",9:00,0:40,Yes,Yes,No,No,No,No,No,,,No,No,No
+No,No,Thu,"August 19, 2021",8:40,1:00,Yes,No,No,No,No,No,No,,,No,No,No
+No,No,Fri — Vacances Espagne,"August 20, 2021",7:00,,No,No,No,No,No,No,No,,,No,No,No
+No,No,,"September 5, 2021",,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"September 7, 2021",8:30,0:00,Yes,No,Yes,Yes,Yes,No,No,,,No,No,No
+Yes,Yes,Wed,"September 8, 2021",8:15,23:55,Yes,Yes,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"September 9, 2021",8:30,0:10,Yes,Yes,Yes,No,No,No,No,"Bad Sleep, Fuzzy Wake up",,No,No,Yes
+No,No,Fri,"September 10, 2021",8:00,0:40,Yes,No,Yes,No,No,No,No,"Alcohol, Fuzzy Wake up",,No,No,Yes
+Yes,Yes,Sat,"September 11, 2021",9:45,1:00,No,Yes,Yes,Yes,No,Yes,No,,,No,No,Yes
+No,No,Sun,"September 12, 2021",9:00,0:35,Yes,Yes,Yes,Yes,Yes,No,No,Social,,No,No,Yes
+No,No,Mon,"September 13, 2021",8:00,0:10,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,No,Yes
+No,No,Tue,"September 14, 2021",8:00,0:00,Yes,Yes,Yes,No,No,No,No,"Dance training, Fuzzy Wake up",,No,No,Yes
+No,No,Wed,"September 15, 2021",8:00,0:40,Yes,No,No,No,No,No,No,"Cinema, Fuzzy Wake up",,No,No,No
+Yes,Yes,Thu,"September 16, 2021",8:00,0:00,Yes,Yes,No,No,No,No,Yes,"Fuzzy Wake up, Social",,No,No,Yes
+Yes,Yes,Fri,"September 17, 2021",8:30,1:00,Yes,Yes,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Sat,"September 18, 2021",10:50,0:30,No,Yes,Yes,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Sun,"September 19, 2021",9:00,0:05,Yes,Yes,Yes,Yes,No,Yes,Yes,Social,,No,No,No
+Yes,Yes,Mon,"September 20, 2021",7:00,0:05,Yes,Yes,Yes,Yes,Yes,No,Yes,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Tue,"September 21, 2021",8:00,0:00,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,No,No
+Yes,Yes,Wed,"September 22, 2021",8:00,0:30,Yes,Yes,Yes,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Thu,"September 23, 2021",8:00,0:30,Yes,No,Yes,Yes,Yes,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Fri,"September 24, 2021",8:00,0:20,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Sat,"September 25, 2021",9:00,0:30,No,No,Yes,Yes,Yes,No,No,"Bad Sleep, Fuzzy Wake up, Social",,No,No,Yes
+Yes,Yes,Sun,"September 26, 2021",9:00,23:45,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Mon,"September 27, 2021",8:00,23:55,Yes,Yes,Yes,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Tue,"September 28, 2021",8:10,0:30,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Wed,"September 29, 2021",8:00,0:30,Yes,Yes,Yes,No,No,No,No,"Bad Sleep, Fuzzy Wake up",,No,No,Yes
+Yes,Yes,Thu,"September 30, 2021",8:15,1:15,Yes,No,No,Yes,Yes,No,No,,,No,Yes,Yes
+Yes,Yes,Fri,"October 1, 2021",9:30,1:00,Yes,No,Yes,No,No,No,No,"Bad Sleep, Shaving, Vaccin",,No,Yes,Yes
+Yes,Yes,Sat,"October 2, 2021",9:00,1:45,Yes,Yes,Yes,Yes,No,Yes,No,Social,,No,Yes,Yes
+Yes,Yes,Sun,"October 3, 2021",10:00,0:25,No,Yes,Yes,Yes,Yes,No,No,Bad Sleep,,No,Yes,Yes
+Yes,Yes,Mon,"October 4, 2021",8:30,1:00,Yes,No,Yes,No,No,No,No,"Bad Sleep, Dentist, Fuzzy Wake up",,No,Yes,Yes
+Yes,Yes,Tue,"October 5, 2021",8:50,1:10,Yes,No,Yes,No,No,No,No,"Dance training, Dentist, Social",,No,Yes,No
+No,No,Wed,"October 6, 2021",8:30,1:10,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Thu,"October 7, 2021",8:00,0:00,Yes,Yes,Yes,Yes,Yes,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Fri,"October 8, 2021",8:00,23:50,Yes,No,Yes,No,No,No,No,"Away, Social",,No,No,Yes
+Yes,Yes,Sat,"October 9, 2021",8:40,23:50,Yes,No,No,No,No,No,No,"Away, Bad Sleep, Cueillette, Social",,No,Yes,No
+Yes,Yes,Sun,"October 10, 2021",8:50,0:30,Yes,No,Yes,No,No,No,No,"Away, Fuzzy Wake up, Social",,No,Yes,Yes
+Yes,Yes,Mon,"October 11, 2021",8:00,0:10,Yes,No,Yes,No,No,No,No,Groceries,,No,No,Yes
+Yes,Yes,Tue,"October 12, 2021",7:30,1:00,Yes,No,Yes,No,No,No,No,"Dance training, Fuzzy Wake up, Social",,No,Yes,Yes
+No,No,Wed,"October 13, 2021",7:45,0:30,Yes,No,Yes,Yes,No,Yes,No,,,No,Yes,Yes
+Yes,Yes,Thu,"October 14, 2021",8:00,0:40,Yes,Yes,Yes,Yes,Yes,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Fri,"October 15, 2021",8:00,0:10,Yes,Yes,Yes,Yes,No,Yes,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Sat,"October 16, 2021",8:55,2:10,Yes,Yes,Yes,Yes,Yes,No,No,"Groceries, Social",,No,Yes,No
+Yes,Yes,Sun,"October 17, 2021",9:55,1:30,Yes,Yes,Yes,Yes,No,Yes,No,Hangover,,No,No,Yes
+No,No,Mon,"October 18, 2021",7:30,0:10,Yes,No,Yes,No,No,No,Yes,,,No,Yes,Yes
+No,No,Tue,"October 19, 2021",7:45,0:25,Yes,No,Yes,No,No,No,No,"Dance training, Social",,No,Yes,Yes
+No,No,Wed,"October 20, 2021",7:20,0:25,Yes,Yes,Yes,No,No,No,No,Bad Sleep,,No,Yes,Yes
+Yes,Yes,Thu,"October 21, 2021",8:00,1:20,Yes,Yes,No,No,Yes,No,No,"Dentist, Fuzzy Wake up",,No,Yes,Yes
+Yes,Yes,Fri,"October 22, 2021",8:00,0:30,Yes,Yes,No,No,No,No,No,,,No,Yes,Yes
+No,No,Sat,"October 23, 2021",8:45,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Sat,"October 30, 2021",9:30,23:45,Yes,Yes,Yes,Yes,Yes,No,No,"Groceries, Hangover, Social",,No,Yes,Yes
+Yes,Yes,Sun,"October 31, 2021",8:00,0:45,Yes,Yes,Yes,Yes,No,Yes,No,,,No,Yes,Yes
+Yes,Yes,Mon,"November 1, 2021",9:00,0:45,Yes,Yes,Yes,No,No,No,No,Groceries,,No,Yes,Yes
+Yes,Yes,Tue,"November 2, 2021",7:15,0:00,Yes,No,Yes,No,No,No,No,Social,,No,Yes,No
+Yes,Yes,Wed,"November 3, 2021",6:50,22:30,Yes,Yes,No,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Thu,"November 4, 2021",7:15,0:30,Yes,No,Yes,No,No,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Fri,"November 5, 2021",7:15,0:45,Yes,No,No,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Sat,"November 6, 2021",9:00,3:30,No,Yes,Yes,No,No,No,No,"Alcohol, Social, drug",,No,Yes,No
+Yes,Yes,Sun,"November 7, 2021",11:00,0:40,Yes,Yes,Yes,No,No,No,No,Hangover,,No,Yes,No
+Yes,Yes,Mon,"November 8, 2021",7:30,0:15,Yes,Yes,No,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Tue,"November 9, 2021",7:15,0:30,Yes,No,Yes,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Wed,"November 10, 2021",7:30,2:00,Yes,No,No,No,No,No,No,"Away, Social, Train",,No,Yes,Yes
+Yes,Yes,Mon,"November 15, 2021",7:15,0:30,Yes,No,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Tue,"November 16, 2021",7:15,1:00,Yes,Yes,No,No,No,No,No,Social,,No,No,No
+Yes,Yes,Wed,"November 17, 2021",6:30,1:00,Yes,No,No,No,No,No,No,,,No,Yes,No
+Yes,Yes,Thu,"November 18, 2021",10:30,0:40,Yes,Yes,No,No,No,No,No,"Concert, Groceries, Social",,No,Yes,No
+Yes,Yes,Fri,"November 19, 2021",8:00,0:45,Yes,No,Yes,No,No,No,No,"Fuzzy Wake up, Groceries",,No,Yes,No
+Yes,Yes,Sat,"November 20, 2021",10:15,6:30,Yes,Yes,Yes,Yes,Yes,No,No,"Alcohol, Groceries, Social, drug",,No,Yes,Yes
+Yes,Yes,Sun,"November 21, 2021",14:00,1:00,Yes,Yes,No,No,No,No,No,"Bad Sleep, Hangover, Social",,No,No,Yes
+Yes,Yes,Mon,"November 22, 2021",7:00,23:50,Yes,No,No,No,No,No,No,Bad Sleep,,No,Yes,Yes
+Yes,Yes,Tue,"November 23, 2021",7:15,0:00,Yes,Yes,No,No,No,No,No,Social,,No,Yes,Yes
+Yes,Yes,Wed,"November 24, 2021",7:15,0:15,Yes,No,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"November 25, 2021",7:30,0:00,Yes,No,No,No,Yes,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Fri,"November 26, 2021",7:30,0:30,Yes,No,No,No,No,No,No,"Bad Sleep, Groceries",,No,Yes,Yes
+Yes,Yes,Sat,"November 27, 2021",9:00,1:45,Yes,Yes,Yes,No,Yes,No,No,,,No,No,No
+Yes,Yes,Sun,"November 28, 2021",10:00,1:00,Yes,Yes,Yes,No,No,No,No,,,No,No,No
+Yes,Yes,Mon,"November 29, 2021",7:15,0:20,Yes,No,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Tue,"November 30, 2021",7:30,5:00,Yes,No,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Wed,"December 1, 2021",10:00,3:50,Yes,No,No,Yes,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"December 2, 2021",10:15,2:50,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+No,No,Wed,"December 3, 2021",,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Fri,"December 3, 2021",12:05,11:30,Yes,Yes,Yes,No,No,No,No,"Alcohol, Boite, Social, drug",,No,No,Yes
+Yes,Yes,Sat,"December 4, 2021",17:30,1:50,No,No,Yes,No,No,No,No,"Bad Sleep, Bath, Hangover",,No,Yes,Yes
+Yes,Yes,Sun,"December 5, 2021",9:30,3:00,Yes,Yes,Yes,No,No,No,No,Groceries,,No,No,Yes
+Yes,Yes,Mon,"December 6, 2021",9:50,0:20,Yes,Yes,Yes,No,No,No,No,"Bath, Dentist",,No,No,Yes
+No,No,Tue,"December 7, 2021",8:00,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Thu,"December 9, 2021",7:15,00:30,Yes,Yes,Yes,No,No,No,No,"Fuzzy Wake up, Sick",,No,No,Yes
+Yes,Yes,Fri,"December 10, 2021",10:30,00:40,Yes,Yes,Yes,No,No,No,No,"Sick, Social",,No,No,Yes
+Yes,Yes,Sat,"December 11, 2021",9:00,4:00,Yes,Yes,Yes,No,Yes,No,No,"Alcohol, Away, Sick, Social, Train",,No,Yes,No
+Yes,Yes,Sun,"December 12, 2021",10:50,0:20,Yes,Yes,No,No,No,No,No,"Away, Bad Sleep, Bath, Hangover, Social, Train",,No,No,Yes
+Yes,Yes,Mon,"December 13, 2021",8:00,0:40,Yes,No,No,No,No,No,No,"Bath, Groceries, Nap, Sick",,No,No,No
+Yes,Yes,Tue,"December 14, 2021",7:30,0:30,Yes,No,No,No,No,No,No,"Bad Sleep, Nap, Sick, Social",,No,No,Yes
+Yes,Yes,Wed,"December 15, 2021",8:20,0:20,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"December 16, 2021",10:20,0:30,Yes,Yes,No,No,No,No,No,"Alcohol, Social",,No,No,Yes
+Yes,Yes,Fri,"December 17, 2021",10:20,7:00,Yes,No,No,No,No,No,No,"Alcohol, Away, Sick, Social, Train, drug",,No,No,Yes
+Yes,Yes,Sat,"December 18, 2021",15:15,1:30,No,No,No,No,Yes,No,No,"Alcohol, Away, Social",,No,Yes,No
+Yes,Yes,Sun,"December 19, 2021",10:00,1:00,Yes,Yes,No,No,No,No,No,"Social, Train",,No,Yes,No
+Yes,Yes,Mon,"December 20, 2021",8:00,0:20,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tue,"December 21, 2021",8:00,0:40,Yes,Yes,No,No,No,No,No,,,No,No,No
+Yes,Yes,Wed,"December 22, 2021",9:55,1:00,Yes,Yes,No,No,No,No,No,"Groceries, Social",,No,No,No
+Yes,Yes,Thu,"December 23, 2021",9:00,1:00,Yes,Yes,No,No,No,No,No,"Groceries, Social",,No,No,No
+No,No,Fri,"December 24, 2021",9:00,,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Saturday,"January 1, 2022",13:30,1:00,No,No,No,No,No,No,No,"Hangover, Nap",,No,No,No
+Yes,Yes,Sunday,"January 2, 2022",8:00,2:00,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Monday,"January 3, 2022",9:00,00:50,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Tuesday,"January 4, 2022",9:15,00:45,No,No,No,No,No,No,No,,,No,No,No
+Yes,Yes,Wednesday,"January 5, 2022",9:10,0:35,No,No,No,No,No,No,No,"Nap, Train",,No,No,No
+No,No,Thursday,"January 6, 2022",7:45,0:30,Yes,Yes,No,No,Yes,No,No,,,No,No,Yes
+No,No,Fri,"January 7, 2022",8:00,1:00,Yes,Yes,No,No,No,No,No,"Alcohol, Social",,No,No,Yes
+Yes,Yes,Saturday,"January 8, 2022",9:30,0:40,No,Yes,Yes,No,No,No,No,"Alcohol, Cinema, Social",,No,No,Yes
+Yes,Yes,Sunday,"January 9, 2022",9:30,0:40,No,Yes,Yes,No,Yes,No,No,Bad Sleep,,No,No,Yes
+Yes,Yes,Monday,"January 10, 2022",8:30,0:40,Yes,No,Yes,No,No,No,No,Bad Sleep,,No,No,Yes
+Yes,Yes,Tue,"January 11, 2022",8:00,0:30,Yes,No,Yes,No,No,No,No,,,No,No,Yes
+No,No,Wed,"January 12, 2022",8:00,1:10,Yes,No,No,No,No,No,No,"Alcohol, Fuzzy Wake up, Social",,No,No,No
+No,No,Thu,"January 13, 2022",10:45,0:45,Yes,Yes,Yes,No,Yes,No,No,,,No,No,Yes
+Yes,Yes,Friday,"January 14, 2022",8:00,0:50,Yes,No,Yes,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Saturday,"January 15, 2022",9:00,1:40,Yes,Yes,Yes,Yes,Yes,No,No,"Alcohol, Bad Sleep, Social",,No,No,Yes
+Yes,Yes,Sunday,"January 16, 2022",9:45,0:30,Yes,Yes,Yes,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Monday,"January 17, 2022",8:00,0:00,Yes,No,No,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Tue,"January 18, 2022",7:00,0:30,Yes,No,Yes,No,No,No,No,"Dance training, Social",,No,No,Yes
+Yes,Yes,Wed,"January 19, 2022",9:20,0:55,Yes,Yes,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"January 20, 2022",8:00,0:30,Yes,Yes,Yes,No,Yes,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Fri,"January 21, 2022",8:00,1:00,Yes,Yes,Yes,No,No,No,No,"Fuzzy Wake up, Groceries",,No,No,Yes
+Yes,Yes,Sat,"January 22, 2022",9:30,3:00,Yes,Yes,Yes,Yes,Yes,No,No,"Alcohol, Social",,No,No,No
+Yes,Yes,Sun,"January 23, 2022",10:30,1:00,Yes,Yes,Yes,No,No,No,No,Hangover,,No,No,Yes
+No,No,Mon,"January 24, 2022",7:00,1:30,Yes,No,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Tue,"January 25, 2022",7:45,0:30,Yes,No,Yes,Yes,Yes,No,No,Sick,,No,Yes,Yes
+No,No,Wed,"January 26, 2022",9:15,1:15,Yes,Yes,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Thu,"January 27, 2022",9:00,1:35,Yes,Yes,No,No,Yes,No,No,"Fuzzy Wake up, Groceries",,No,No,Yes
+Yes,Yes,Friday,"January 28, 2022",9:00,1:50,Yes,Yes,Yes,No,No,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Saturday,"January 29, 2022",10:00,1:35,Yes,Yes,Yes,No,Yes,No,No,,,No,No,Yes
+Yes,Yes,Sunday,"January 30, 2022",10:00,0:30,No,Yes,Yes,No,No,No,No,"Groceries, Social",,No,Yes,Yes
+No,No,Monday,"January 31, 2022",7:00,0:21,Yes,Yes,Yes,No,No,No,No,Groceries,,No,Yes,Yes
+Yes,Yes,Tuesday,"February 1, 2022",8:15,23:40,Yes,Yes,Yes,No,Yes,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Wednesday,"February 2, 2022",8:15,23:40,Yes,Yes,Yes,No,No,No,No,"Fuzzy Wake up, Groceries",,No,Yes,Yes
+Yes,Yes,Thursday,"February 3, 2022",8:00,0:05,Yes,No,Yes,No,Yes,Yes,No,"Bad Sleep, Fuzzy Wake up",,No,Yes,Yes
+Yes,Yes,Friday,"February 4, 2022",8:15,1:00,Yes,Yes,Yes,No,No,No,No,Fuzzy Wake up,,No,No,No
+Yes,Yes,Saturday,"February 5, 2022",10:00,3:25,Yes,Yes,Yes,No,Yes,No,No,"Alcohol, Social",,No,Yes,No
+Yes,Yes,Sunday,"February 6, 2022",11:20,1:02,Yes,No,No,No,No,No,No,Social,,No,Yes,Yes
+Yes,Yes,Mon,"February 7, 2022",9:00,0:45,Yes,Yes,Yes,No,Yes,No,No,Bad Sleep,,No,Yes,Yes
+Yes,Yes,Tuesday,"February 8, 2022",8:00,0:00,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Wednesday,"February 9, 2022",8:00,0:20,Yes,Yes,Yes,No,Yes,No,No,Fuzzy Wake up,,No,Yes,Yes
+Yes,Yes,Thursday,"February 10, 2022",7:30,0:05,Yes,No,Yes,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Friday,"February 11, 2022",8:00,1:40,Yes,No,Yes,No,Yes,No,No,,,No,No,Yes
+Yes,Yes,Sat,"February 12, 2022",9:30,0:40,Yes,Yes,Yes,No,No,No,No,"Groceries, Museum, Social",,No,Yes,Yes
+Yes,Yes,Sunday,"February 13, 2022",10:40,1:00,Yes,Yes,Yes,No,Yes,No,No,"Bad Sleep, Groceries",,No,Yes,Yes
+Yes,Yes,Monday,"February 14, 2022",8:00,1:00,Yes,No,No,No,No,No,No,Bad Sleep,,No,No,Yes
+Yes,Yes,Tuesday,"February 15, 2022",7:30,0:20,Yes,No,No,No,No,No,No,"Alcohol, Fuzzy Wake up, Social",,No,Yes,No
+No,No,Wednesday,"February 16, 2022",8:00,00:40,Yes,No,No,No,No,No,No,"Alcohol, Fuzzy Wake up, Social",,No,Yes,No
+Yes,Yes,Thursday,"February 17, 2022",8:00,0:07,Yes,Yes,Yes,No,No,No,No,,,No,Yes,Yes
+No,No,Friday,"February 18, 2022",8:00,0:30,Yes,Yes,Yes,No,No,Yes,No,Social,,No,Yes,No
+Yes,Yes,Saturday,"February 19, 2022",9:00,3:05,Yes,Yes,Yes,No,Yes,No,No,"Alcohol, Groceries, Social",,No,Yes,No
+Yes,Yes,Sunday,"February 20, 2022",10:30,0:40,Yes,No,Yes,No,No,No,No,Hangover,,No,Yes,Yes
+Yes,Yes,Monday,"February 21, 2022",8:00,0:30,Yes,No,No,No,No,No,No,"Fuzzy Wake up, Groceries",,No,No,Yes
+Yes,Yes,Tuesday,"February 22, 2022",8:00,0:40,Yes,No,No,No,No,No,No,,,Yes,No,Yes
+No,No,Wedneday,"February 23, 2022",9:20,0:35,Yes,Yes,No,No,No,No,No,,,No,Yes,Yes
+No,No,Thu,"February 24, 2022",8:00,23:50,Yes,Yes,No,No,No,No,No,Social,,No,Yes,Yes
+Yes,Yes,Fri,"February 25, 2022",8:45,0:30,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Saturday,"February 26, 2022",10:30,0:55,Yes,Yes,Yes,No,Yes,No,No,,,No,Yes,Yes
+Yes,Yes,Sunday,"February 27, 2022",9:00,0:25,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+No,No,Monday,"February 28, 2022",8:00,0:10,Yes,Yes,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Tuesday,"March 1, 2022",8:00,23:45,Yes,No,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Wednesday,"March 2, 2022",8:00,0:20,Yes,Yes,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Thu,"March 3, 2022",8:00,1:00,Yes,No,No,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Friday,"March 4, 2022",8:00,0:45,Yes,Yes,No,No,No,No,No,Social,,No,No,No
+Yes,Yes,Saturday,"March 5, 2022",9:30,2:55,No,Yes,Yes,No,No,No,No,"Alcohol, Social",,No,No,No
+Yes,Yes,Sun,"March 6, 2022",10:30,0:25,Yes,Yes,No,No,No,No,No,"Groceries, Hangover",,No,No,Yes
+Yes,Yes,Monday,"March 7, 2022",6:45,0:05,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Tue,"March 8, 2022",9:00,0:17,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Thu,"March 10, 2022",7:30,0:20,Yes,No,No,No,No,No,No,"Alcohol, Social",,No,No,Yes
+Yes,Yes,Thu,"March 10, 2022",8:00,0:25,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Fri,"March 11, 2022",8:00,0:15,Yes,No,No,No,No,No,No,"Fuzzy Wake up, Social",,No,Yes,Yes
+Yes,Yes,Sat,"March 12, 2022",9:30,0:20,Yes,No,Yes,No,Yes,No,No,Groceries,,No,No,Yes
+Yes,Yes,Sunday,"March 13, 2022",9:30,0:35,Yes,Yes,Yes,No,No,No,No,Groceries,,No,No,Yes
+Yes,Yes,Mon,"March 14, 2022",7:15,0:35,Yes,Yes,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Tue,"March 15, 2022",7:30,0:15,Yes,Yes,No,No,No,No,No,Social,,No,No,Yes
+No,No,Wed,"March 16, 2022",8:00,0:40,Yes,Yes,No,No,Yes,No,No,Fuzzy Wake up,,No,No,Yes
+Yes,Yes,Thu,"March 17, 2022",7:30,0:05,Yes,No,No,No,No,No,No,,,No,Yes,Yes
+Yes,Yes,Fri,"March 18, 2022",8:00,0:05,Yes,No,No,No,Yes,No,No,"Alcohol, Fuzzy Wake up, Social",,No,No,Yes
+Yes,Yes,Sat,"March 19, 2022",5:20,1:30,No,No,No,No,No,No,No,"Alcohol, Away, Social, Train",,No,No,No
+Yes,Yes,Sunday,"March 20, 2022",10:00,1:00,Yes,No,No,No,No,No,No,"Alcohol, Away, Bad Sleep, Fuzzy Wake up, Hangover, Social, Train",,No,No,No
+Yes,Yes,Mon,"March 21, 2022",6:30,23:25,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,No,Yes
+No,No,Tue,"March 22, 2022",9:00,23:55,Yes,No,No,No,No,No,No,"Bad Sleep, Fuzzy Wake up",,No,No,No
+Yes,Yes,Mon,"May 30, 2022",8:00,0:10,Yes,No,No,No,Yes,No,No,Bad Sleep,,No,Yes,Yes
+No,No,Tue,"May 31, 2022",7:45,0:10,Yes,No,No,No,No,No,No,Fuzzy Wake up,,No,Yes,Yes
+No,No,Wed,"June 1, 2022",7:45,0:15,Yes,No,Yes,Yes,Yes,No,No,,,No,No,Yes
+Yes,Yes,Thu,"June 2, 2022",7:45,0:35,Yes,No,Yes,No,No,Yes,No,,,No,No,Yes
+Yes,Yes,Fri,"June 3, 2022",7:45,2:20,Yes,Yes,No,No,No,No,No,"Alcohol, Fuzzy Wake up, Social",,No,Yes,No
+Yes,Yes,Sat,"June 4, 2022",10:40,1:00,No,No,Yes,Yes,Yes,No,No,"Alcohol, Social",,No,No,No
+Yes,Yes,Sun,"June 5, 2022",9:45,0:20,No,No,Yes,No,No,No,No,,,No,No,Yes
+Yes,Yes,Mon,"June 6, 2022",9:40,0:50,Yes,No,No,No,No,Yes,No,,,No,Yes,Yes
+Yes,Yes,Tue,"June 7, 2022",6:00,0:15,Yes,No,Yes,No,Yes,No,No,Bad Sleep,,No,Yes,No
+Yes,Yes,Wed,"June 8, 2022",7:30,0:25,Yes,No,No,No,No,No,No,"Alcohol, Fuzzy Wake up, Social",,No,Yes,No
+No,No,Thu,"June 9, 2022",7:45,0:10,Yes,No,Yes,No,No,No,No,Bad Sleep,,No,Yes,No
+Yes,Yes,Friday,"June 10, 2022",7:45,1:30,Yes,No,Yes,No,No,No,No,,,No,Yes,No
+No,No,Saturday,"June 11, 2022",7:00,1:30,Yes,No,Yes,No,No,No,No,Conference,,No,Yes,No
+No,No,Sunday,"June 12, 2022",9:15,0:00,No,No,No,No,Yes,No,No,"Away, Conference, Social",,No,No,No
+Yes,Yes,Mon,"June 13, 2022",7:45,1:35,Yes,No,No,No,Yes,No,No,Bad Sleep,,No,No,No
+Yes,Yes,Sun,"June 19, 2022",11:00,00:25,Yes,Yes,No,No,No,No,No,,,No,No,Yes
+Yes,Yes,Tue,"June 21, 2022",7:45,0:45,Yes,No,No,No,No,No,No,"Alcohol, Social",,No,No,No
+No,No,Wed,"June 22, 2022",8:30,23:00,Yes,No,No,No,Yes,No,No,"Bad Sleep, Hangover",,No,No,No
+Yes,Yes,Thu,"June 23, 2022",7:45,0:25,Yes,No,No,No,No,No,No,Bad Sleep,,No,Yes,Yes
+Yes,Yes,Sun,"June 26, 2022",9:20,0:25,Yes,No,No,No,No,No,No,"Away, Social",,No,Yes,No
+No,No,Mon,"June 27, 2022",8:00,23:55,Yes,No,No,No,Yes,No,No,,,No,Yes,No

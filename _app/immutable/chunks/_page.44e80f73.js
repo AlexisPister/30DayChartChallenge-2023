@@ -1,0 +1,1 @@
+import{b as r}from"./paths.dad54cb4.js";import{P as a}from"./papaparse.min.ea907a2a.js";const o=({fetch:t})=>t(`${r}/data/11/table.csv`).then(e=>e.text()).then(e=>a.parse(e,{header:!0})),p=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{p as _,o as l};
