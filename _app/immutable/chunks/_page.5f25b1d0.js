@@ -1,0 +1,1 @@
+import{b as a}from"./paths.3e27c8a2.js";import{P as r}from"./papaparse.min.ea907a2a.js";const o=({fetch:t})=>t(`${a}/data/09/Canadian_climate_history.csv`).then(e=>e.text()).then(e=>r.parse(e,{header:!0})),l=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{l as _,o as l};
