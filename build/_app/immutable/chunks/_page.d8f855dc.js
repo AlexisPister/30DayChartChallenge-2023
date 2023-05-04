@@ -1,1 +1,0 @@
-import{b as o}from"./paths.9fde2edb.js";const r=({fetch:t})=>t(`${o}/data/03/phylograph_tree.json`).then(e=>e.json()).then(e=>e),n=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{n as _,r as l};

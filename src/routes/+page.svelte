@@ -1,5 +1,6 @@
 <script lang="ts">
-    import {base} from "$app/paths";
+    import {base, assets} from "$app/paths";
+    import { page } from '$app/stores';
 
     import * as d3 from "d3";
     import {onMount} from "svelte";
@@ -27,6 +28,9 @@
         "21-downupwards",
         "23-tiles"
     ]
+
+    let path = $page.url.pathname == "/" ? "" : $page.url.pathname;
+    console.log(path)
 </script>
 
 
@@ -97,7 +101,8 @@
     <img id="challenge" src="{base}/30challenge.jpeg">
     <div id="grid">
         {#each FOLDERS as day}
-            <a class="day" href="./{day}">
+            <a class="day" href="{base}/{day}">
+<!--            <a class="day" href="{base}{path}/{day}">-->
                 <!--            <div >-->
                 <div></div>
                 <img src="{base}/screen/{day.slice(0, 2)}.png">
