@@ -1,1 +1,0 @@
-import{b as o}from"./paths.818f0fb2.js";import"./papaparse.min.ea907a2a.js";const r=({fetch:t})=>t(`${o}/data/03/phylograph_tree.json`).then(e=>e.json()).then(e=>e),l=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{l as _,r as l};

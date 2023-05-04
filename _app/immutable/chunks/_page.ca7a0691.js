@@ -1,0 +1,1 @@
+import{b as a}from"./paths.89fdb50d.js";import{P as r}from"./papaparse.min.ea907a2a.js";const o=({fetch:t})=>t(`${a}/data/21/LynxHare.txt`).then(e=>e.text()).then(e=>r.parse(e,{header:!1,delimiter:" "})),p=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{p as _,o as l};
