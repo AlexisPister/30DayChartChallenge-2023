@@ -1,4 +1,6 @@
 <script lang="ts">
+    import {base} from "$app/paths";
+
     import * as d3 from "d3";
     import {onMount} from "svelte";
 
@@ -88,16 +90,17 @@
 
 <div id="main">
     <div id="text">
-        Here are  <a href="https://alexispister.github.io/">my</a> 20 contributions to the <a href="https://twitter.com/30DayChartChall">#30DayChartChallenge</a> 2023.
+        Here are <a href="https://alexispister.github.io/">my</a> 20 contributions to the <a
+            href="https://twitter.com/30DayChartChall">#30DayChartChallenge</a> 2023.
         You can click on the images to go to the charts.
     </div>
-    <img id="challenge" src="static/30challenge.jpeg">
+    <img id="challenge" src="{base}/30challenge.jpeg">
     <div id="grid">
         {#each FOLDERS as day}
             <a class="day" href="./{day}">
                 <!--            <div >-->
                 <div></div>
-                <img src="screen/{day.slice(0, 2)}.png">
+                <img src="{base}/screen/{day.slice(0, 2)}.png">
                 {day}
                 <!--            </div>-->
             </a>

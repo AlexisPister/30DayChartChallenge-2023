@@ -1,0 +1,1 @@
+import{c as i}from"./colors.98f238a0.js";function t(c,d){let e;if(d===void 0)for(const n of c)n!=null&&(e>n||e===void 0&&n>=n)&&(e=n);else{let n=-1;for(let f of c)(f=d(f,++n,c))!=null&&(e>f||e===void 0&&f>=f)&&(e=f)}return e}const l=i("66c2a5fc8d628da0cbe78ac3a6d854ffd92fe5c494b3b3b3");export{t as m,l as s};
